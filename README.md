@@ -1,4 +1,4 @@
-[![MasterHead](https://www.google.com/search?q=github+mern+banner+gif&tbm=isch&ved=2ahUKEwjTxcS6wcyBAxXgXmwGHfXMAU8Q2-cCegQIABAA&oq=github+mern+banner+gif&gs_lcp=CgNpbWcQAzoECCMQJ1CBCFiVD2DaEWgAcAB4AIABmQKIAegGkgEFMC4yLjKYAQCgAQGqAQtnd3Mtd2l6LWltZ8ABAQ&sclient=img&ei=0QYVZZOZOuC9seMP9ZmH-AQ&bih=707&biw=1536&rlz=1C1VDKB_enIN1025IN1025#imgrc=11y0hD6hT3UTDM)]
+
 <h1 align="center">Hi 🙋‍♂️, I'm SIVAKUMAR</h1>
 <h3 align="center">A passionate MERN stack developer</h3>
 
@@ -16,11 +16,14 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/sivakumar-fsd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sivakumar-fsd" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sivakumar-fsd" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/thumbnails/004/467/266/small/portfolio-sketch-neon-icon-simple-thin-line-outline-of-education-icons-for-ui-and-ux-website-or-mobile-application-isolated-on-brick-wall-vector.jpg" alt="sivakumar-fsd" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+  <img src="https://www.svgrepo.com/show/331488/mongodb.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
+    <img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
+      <img src="https://cdn.worldvectorlogo.com/logos/react-1.svg" alt="react" width="40" height="40"/> </a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sivakumar0703&show_icons=true&locale=en&layout=compact" alt="sivakumar0703" /></p>
 
