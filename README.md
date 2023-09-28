@@ -20,13 +20,14 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.svgrepo.com/show/331488/mongodb.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-    <img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-      <img src="https://cdn.worldvectorlogo.com/logos/react-1.svg" alt="react" width="40" height="40"/> </a> </p>
+<p align="left">
+  <img src="https://w1.pngwing.com/pngs/136/126/png-transparent-javascript-logo-angularjs-nodejs-computer-programming-web-development-computer-software-jquery-yellow.png" alt="mongodb" width="40" height="40"/>  &nbsp; 
+    <img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> &nbsp;
+      <img src="https://cdn.worldvectorlogo.com/logos/react-1.svg" alt="react" width="40" height="40"/>
+     <img src="https://www.svgrepo.com/show/331488/mongodb.svg" alt="mongodb" width="40" height="40"/> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sivakumar0703&show_icons=true&locale=en&layout=compact" alt="sivakumar0703" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sivakumar0703&show_icons=true&locale=en&layout=compact" alt="sivakumar0703" /></p> 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sivakumar0703&show_icons=true&locale=en" alt="sivakumar0703" /></p>
+<p>&nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api?username=sivakumar0703&show_icons=true&locale=en" alt="sivakumar0703" /></p> 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sivakumar0703&" alt="sivakumar0703" /></p>
